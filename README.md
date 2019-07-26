@@ -3,7 +3,7 @@
 This are my fish dotfiles.
 
 ## How it looks
-[![rogs-fish-preview](https://raw.githubusercontent.com/Rogergonzalez21/fish_dotfiles/master/preview.png)]
+![rogs-fish-preview](https://raw.githubusercontent.com/Rogergonzalez21/fish_dotfiles/master/preview.png)
 
 
 ## Uses
