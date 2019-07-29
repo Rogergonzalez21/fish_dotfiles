@@ -77,5 +77,9 @@ abbr nt 'npm test'
 abbr rmr 'rm -r'
 abbr rmrf 'rm -rf'
 
+# Tar
+abbr tc 'tar czvf'
+abbr tx 'tar xzvf'
+
 # Other
 abbr pr 'ping rogs.me'
